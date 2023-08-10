@@ -3,6 +3,7 @@ public class Animales {
     private String nombreComun;
     private String nombreCientifico;
     private String lugarAvistamiento;
+    private Integer edad;
 
     public Animales(){
 
